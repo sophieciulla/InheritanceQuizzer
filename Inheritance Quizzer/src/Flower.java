@@ -3,8 +3,9 @@ public class Flower extends Plant
 	{
 		public Flower()
 		{
-			System.out.println("Flowers are fun to look at and smell :)");
+			
 		}
+		
 		
 		@Override
 		public void grow()

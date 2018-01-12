@@ -3,8 +3,9 @@ public class Plant
 	{
 		public Plant()
 		{
-			System.out.println("I come from nature");
+			
 		}
+		
 		public void grow()
 		{
 			System.out.println("I need sun to grow");
@@ -15,3 +16,4 @@ public class Plant
 		}
 
 	}
+
